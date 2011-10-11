@@ -1,0 +1,27 @@
+Yes another Tetris clone!
+
+If you dont want to download it, you can play it online here in applet form which also features high score submission!
+
+Keys
+Move piece left: Left key
+Move piece right: Right key
+Move piece down: Down key
+Rotate piece: Up key
+Change rotation direction: R Key
+Pause game: P Key
+New game: N Key
+Submit score to high scores: S Key (when games over)
+
+Game play
+Player moves on to the next level every 60 seconds.
+Every level the drop rate of the Tetris piece gets faster by 20ms.
+The more rows you complete at once the more points you recive, points are as follows:
+
+1 row: 100 points
+2 rows: 300
+3 rows: 600
+4 rows: 900
+You get bonus points for .dropping. (using down key) a piece.
+
+Extra
+There are a few easter eggs. See if you can find them
