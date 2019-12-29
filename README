@@ -25,3 +25,7 @@ You get bonus points for .dropping. (using down key) a piece.
 
 Extra
 There are a few easter eggs. See if you can find them
+
+
+To compile: javac $(find . -name "*.java")
+To run: java tetrisjava/Main
